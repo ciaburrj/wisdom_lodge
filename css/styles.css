@@ -3,15 +3,35 @@
             background-color: rgb(38, 38, 38); 
         }
         .silex-id-1474394621033-3 {
-            min-height: 600px; 
-            top: 5px; 
+            min-height: 1862px; 
+            top: 0px; 
             left: 0px; 
         }
         .silex-id-1474394621032-2 {
             min-height: 100px; 
             background-color: rgb(255, 255, 255); 
+            top: 0px; 
+            left: 43px; 
+            width: 1146px; 
         }
-        .silex-id-1474394605264-1 {
+        .silex-id-1478229898154-2 {
+            min-height: 442px; 
+            width: 591px; 
+            top: 54px; 
+            left: 229px; 
+        }
+        .silex-id-1478230439055-7 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 100px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1478230439055-7 {
+            left: 57px; 
+            top: 100px; 
+        }
+        }.silex-id-1474394605264-1 {
             min-height: 100px; 
             width: 100px; 
             top: 100px; 
@@ -26,5 +46,33 @@
             width: 960px; 
             top: 37px; 
             left: 1px; 
+        }
+        .silex-id-1478230083539-3 {
+            min-height: 83px; 
+            width: 86px; 
+            top: 100px; 
+            left: 100px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1478230141440-4 {
+            min-height: 111px; 
+            width: 87px; 
+            top: 100px; 
+            left: 100px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        .silex-id-1478230379421-6 {
+            min-height: 100px; 
+            width: 100px; 
+            top: 100px; 
+            left: 100px; 
+            background-color: rgb(255, 255, 255); 
+        }
+        @media only screen and (max-width: 480px), only screen and (max-device-width: 480px){.silex-id-1478230379421-6 {
+            top: 100px; 
+            left: 100px; 
+            width: 20px; 
+            min-height: 117px; 
+        }
         }
     
