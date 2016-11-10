@@ -166,25 +166,25 @@
                 <div class="silex-element-content">
 
 
-                    <h2><u>Upcoming Events</u></h2>
+
+
                     <p id="demo"></p>
 
-
-
-
-
                     <script>
-                        function calendar_lookUp()
-                        {
-                            var event1 = "";
-                            if (1)
-                            {
-                              event1 = "Test"  
+                        function checkCookies() {
+                            var text = "";
+                            if (navigator.cookieEnabled == true) {
+                                text = "Cookies are enabled.";
+                            } else {
+                                text = "Cookies are not enabled.";
                             }
-                            document.getElementById("demo").innerHTML = event1;
-                        
+                            document.getElementById("demo").innerHTML = text;
                         }
                     </script>
+
+
+
+
 
 
 
